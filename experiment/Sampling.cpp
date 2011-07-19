@@ -10,7 +10,7 @@
 #include <fstream>
 #include <iostream>
 #include <cstring>
-
+test change
 using namespace std;
 
 double samplehkl (int h, int k, int l, double size, int pkpts, double wv);
